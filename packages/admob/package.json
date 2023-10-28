@@ -2,7 +2,6 @@
   "_from": "@react-native-firebase/admob@11.5.0",
   "_id": "@react-native-firebase/admob@11.5.0",
   "_inBundle": false,
-  "_integrity": "sha512-WmScm8xZC50pdOUm5CMixAD4VtVSitslQNySErLNxWnsKe4a+puTeivpQZGTdQ5lszBLIs3oxoNplqtPAqk27g==",
   "_location": "/@react-native-firebase/admob",
   "_phantomChildren": {},
   "_requested": {
@@ -23,7 +22,6 @@
   "bundleDependencies": false,
   "deprecated": false,
   "description": "React Native Firebase - Google AdMob is an easy way to monetize mobile apps with targeted, in-app advertising.",
-  "gitHead": "0217bff5cbbf233d7915efb4dbbdfe00e82dff23",
   "keywords": [
     "react",
     "react-native",
