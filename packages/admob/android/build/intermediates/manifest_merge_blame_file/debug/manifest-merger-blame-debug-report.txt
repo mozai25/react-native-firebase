@@ -1,0 +1,35 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.invertase.firebase.admob" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->C:\Users\Ninja\AndroidStudioProjects\BeClose\node_modules\@react-native-firebase\admob\android\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="31" />
+7-->C:\Users\Ninja\AndroidStudioProjects\BeClose\node_modules\@react-native-firebase\admob\android\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->C:\Users\Ninja\AndroidStudioProjects\BeClose\node_modules\@react-native-firebase\admob\android\src\main\AndroidManifest.xml:5:5-67
+9-->C:\Users\Ninja\AndroidStudioProjects\BeClose\node_modules\@react-native-firebase\admob\android\src\main\AndroidManifest.xml:5:22-64
+10    <uses-permission android:name="android.permission.WAKE_LOCK" />
+10-->C:\Users\Ninja\AndroidStudioProjects\BeClose\node_modules\@react-native-firebase\admob\android\src\main\AndroidManifest.xml:6:5-68
+10-->C:\Users\Ninja\AndroidStudioProjects\BeClose\node_modules\@react-native-firebase\admob\android\src\main\AndroidManifest.xml:6:22-65
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\Ninja\AndroidStudioProjects\BeClose\node_modules\@react-native-firebase\admob\android\src\main\AndroidManifest.xml:7:5-79
+11-->C:\Users\Ninja\AndroidStudioProjects\BeClose\node_modules\@react-native-firebase\admob\android\src\main\AndroidManifest.xml:7:22-76
+12
+13    <application>
+13-->C:\Users\Ninja\AndroidStudioProjects\BeClose\node_modules\@react-native-firebase\admob\android\src\main\AndroidManifest.xml:9:5-16:19
+14        <meta-data
+15            android:name="com.google.android.gms.ads.APPLICATION_ID"
+15-->C:\Users\Ninja\AndroidStudioProjects\BeClose\node_modules\@react-native-firebase\admob\android\src\main\AndroidManifest.xml:11:9-65
+16            android:value="ca-app-pub-4170639198404846~3416626244" />
+16-->C:\Users\Ninja\AndroidStudioProjects\BeClose\node_modules\@react-native-firebase\admob\android\src\main\AndroidManifest.xml:12:9-50
+17        <meta-data
+18            android:name="com.google.android.gms.ads.DELAY_APP_MEASUREMENT_INIT"
+18-->C:\Users\Ninja\AndroidStudioProjects\BeClose\node_modules\@react-native-firebase\admob\android\src\main\AndroidManifest.xml:14:9-77
+19            android:value="false" />
+19-->C:\Users\Ninja\AndroidStudioProjects\BeClose\node_modules\@react-native-firebase\admob\android\src\main\AndroidManifest.xml:15:9-68
+20    </application>
+21
+22</manifest>

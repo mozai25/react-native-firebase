@@ -1,0 +1,28 @@
+io/invertase/firebase/admob/ReactNativeFirebaseAdMobBannerAdViewManager.java
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobBannerAdViewManager
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobBannerAdViewManager$1
+io/invertase/firebase/admob/BuildConfig.java
+ io.invertase.firebase.admob.BuildConfig
+io/invertase/firebase/admob/ReactNativeFirebaseAdmobPackage.java
+ io.invertase.firebase.admob.ReactNativeFirebaseAdmobPackage
+io/invertase/firebase/admob/ReactNativeFirebaseAdMobRewardedModule.java
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobRewardedModule
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobRewardedModule$1
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobRewardedModule$2
+io/invertase/firebase/admob/ReactNativeFirebaseAdMobConsentModule.java
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobConsentModule
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobConsentModule$1
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobConsentModule$2
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobConsentModule$3
+io/invertase/firebase/admob/ReactNativeFirebaseAdMobModule.java
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobModule
+io/invertase/firebase/admob/ReactNativeFirebaseAdMobCommon.java
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobCommon
+io/invertase/firebase/admob/ReactNativeFirebaseAdMobInterstitialModule.java
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobInterstitialModule
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobInterstitialModule$1
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobInterstitialModule$2
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobInterstitialModule$2$1
+ io.invertase.firebase.admob.ReactNativeFirebaseAdMobInterstitialModule$2$2
+io/invertase/firebase/admob/ReactNativeFirebaseAdMobEvent.java
+ io.invertase.firebase.database.ReactNativeFirebaseAdMobEvent
