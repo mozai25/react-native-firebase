@@ -47,15 +47,12 @@
   "license": "Apache-2.0",
   "main": "lib/index.js",
   "name": "@react-native-firebase/admob",
-  "peerDependencies": {
-    "@react-native-firebase/app": "18.5.0"
-  },
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/invertase/react-native-firebase/tree/master/packages/admob"
+    "url": "https://github.com/mozai25/react-native-firebase/tree/main/packages/admob"
   },
   "scripts": {
     "build": "genversion --semi lib/version.js",
